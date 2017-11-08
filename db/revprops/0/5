@@ -1,0 +1,35 @@
+K 10
+svn:author
+V 6
+Alvaro
+K 8
+svn:date
+V 27
+2017-10-29T21:25:31.750418Z
+K 7
+svn:log
+V 460
+Creado repositorio
+1º Prueba de subida de archivos
+
+--->
+
+Añadido contenedores div 87%
+Organizada la tematica de la web y su estructura 80%
+Conexion a mysql 100%
+Cambiar de centerbg 95%
+Botones idioma 35%
+
+------------>
+V1.4.1
+Rediseñada la web, ahora con un diseño mas limpio y organizado
+Añadido logo-web y logo-footer
+Añadido favicon
+Arreglada url header-bg
+
+--->
+V1.4.2
+Añadida función a los elementos del menú
+Sistema ticket 0%
+Ordenado el codigo
+END
